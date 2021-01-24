@@ -1,0 +1,12 @@
+{
+  "name": "resilient-vanilla-rn",
+  "displayName": "resilient-vanilla-rn",
+  "expo": {
+    "name": "resilient-vanilla-rn",
+    "slug": "resilient-vanilla-rn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
